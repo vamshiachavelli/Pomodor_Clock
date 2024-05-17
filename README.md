@@ -6,10 +6,10 @@ Welcome to Day 2 of my 100-day journey of creating something new every day! Toda
 
 **Objective:** To create a Pomodoro Timer with start, stop, and reset features.
 **Technologies Used:** HTML, CSS, JavaScript.
-**Duration:** 1 day.
 
 ## Preview
-![Pomodoro Timer Preview](pomodoro_timer_preview.png)
+![Screen Shot 2024-05-17 at 5 44 26 PM](https://github.com/vamshiachavelli/Pomodor_Clock/assets/58171768/5bf6fcaa-3b46-4a84-8218-b4f8ee0a80f9)
+
 
 ## Features
 - Pomodoro Technique: Utilize the famous time management method for enhanced productivity.
@@ -25,6 +25,6 @@ If you find any bugs or have suggestions for improvements, feel free to open an 
 This project is part of my personal challenge to create something new every day for 100 days. Follow along with my journey on GitHub!
 
 **Day 3 Preview**
-Stay tuned for tomorrow's project where I'll be enhancing the timer with customizable work and break intervals.
+Stay tuned for tomorrow's project
 
 Happy coding! 🚀✨
